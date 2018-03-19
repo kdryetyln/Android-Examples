@@ -1,4 +1,4 @@
-Bu klasörde Android ile programlama'yı öğrenirken yapacağım alıştırmalar yer alacak.
+Bu klasörde Android ile programlamayı öğrenirken yaptığım alıştırmalar yer almaktadır.
 
 Android ile programlamayı öğrenirken Atıl Samancıoğlu'nun Udemy'de yer alan Android eğitiminden yardım alıyorum.
 
