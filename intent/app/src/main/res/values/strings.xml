@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">intent</string>
+    <string name="textview">1. Ekran</string>
+    <string name="btn">2. Ekran</string>
+    <string name="textview2">2. Ekran</string>
+    <string name="btn2">1. Ekran</string>
+    <string name="imagedesc">image</string>
+    <string name="plaintext">Name</string>
+</resources>
