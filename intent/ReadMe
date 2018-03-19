@@ -1,2 +1,4 @@
-Bu uygulamada 2 farklı activty oluşturulmuştur. Bu activity ler arası geçiş butonlar ile sağlanmıştır. 2 farklı ekran görmek gibi..
-Bir acrtivity den alınan girdiyi diğer activity de gösterme uygulamasıda yapılmıştır.
+Bu uygulamada 2 farklı activty oluşturulmuştur. Bu activity ler arası geçiş butonlar ile sağlanmıştır.
+(Butonun birine bastığında diğer sayfa ekrana geliyor.)
+Bir activity den alınan girdiyi diğer activity de gösterme uygulamasıda yapılmıştır.
+(1. ekrandan girilen girdi ikinci ekranda gösteriliyor.)
