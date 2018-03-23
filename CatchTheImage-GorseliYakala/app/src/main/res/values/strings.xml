@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CatchTheSirine(Sirine yi Yakala)</string>
+    <string name="image">image</string>
+    <string name="textview">Zaman : 30</string>
+</resources>
