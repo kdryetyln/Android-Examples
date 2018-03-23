@@ -1,0 +1,3 @@
+Bu uygulamada 9 adet görsel (3*3 şeklinde) vardır. Ancak Bunlar Random olarak gösterilir. 
+
+Skor ve zaman değişkenleri var. Kullanıcı belirlenen saniye boyunca gösterilen görsellere eğer tıklarsa skor 1 artar.
