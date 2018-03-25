@@ -2,4 +2,4 @@ Uygulamamıza nasıl ses dosyası ekleyebileceğimizin küçük bir örneğidir.
 
 Bu uygulamada butona basıldığında bir ses dosyası çalmaktadır.
 
-NOT: app>src>main>res konumuna raw adında bir klasör ekledikten sonra içine ses dosyasını atabilirsiniz. Ancak ses dosyasının ismi küçük harflerden oluşmalı en azından öyle başlamalı. Aksi taktirde derleme hatası vermektedir.
+NOT: app/src/main/res konumuna raw adında bir klasör ekledikten sonra içine ses dosyasını atabilirsiniz. Ancak ses dosyasının ismi küçük harflerden oluşmalı en azından öyle başlamalı. Aksi taktirde derleme hatası vermektedir.
